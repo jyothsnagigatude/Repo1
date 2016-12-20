@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is AEC7-44CD
-
- Directory of C:\Users\gtcpu1\Desktop\GitProject
-
-20-Dec-16  12:52 PM    <DIR>          .
-20-Dec-16  12:52 PM    <DIR>          ..
-20-Dec-16  12:52 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  71,359,315,968 bytes free
+Changes made to this file.
